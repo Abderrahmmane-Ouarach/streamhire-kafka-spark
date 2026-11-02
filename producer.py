@@ -12,3 +12,5 @@ with open("jobs.txt", encoding="utf-8") as f:
             time.sleep(1)   # simule un flux en temps réel
 
 producer.flush()
+
+
